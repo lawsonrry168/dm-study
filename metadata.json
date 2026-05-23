@@ -1,0 +1,6 @@
+{
+  "name": "DM & AI Learning Hub",
+  "description": "An interactive learning platform for Digital Marketing & AI students, featuring theory lessons, interactive exam practice, real-world keyword planner mockups, certified study tracks (GA4 & Meta Blueprint), SEO auditors, and campaign performance simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
